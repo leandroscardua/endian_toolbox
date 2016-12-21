@@ -7,9 +7,9 @@ v.1
 
 Installation:
 
-Github
 
-Just Download
+
+
 
 
 
