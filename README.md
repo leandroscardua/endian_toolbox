@@ -12,9 +12,9 @@ Requirements/optinal:
 
 Installation:
 
-
-
-
+curl -Lo menu-toolbox.pl https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/menu-toolbox.pl
+mv menu-toolbox.pl /home/httpd/menus/main/
+chmod 755 /home/httpd/menus/main/menu-toolbox.pl
 
 
 
