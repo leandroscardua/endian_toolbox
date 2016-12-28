@@ -3,8 +3,8 @@
 cd /tmp/
 curl -Lo menu-toolbox.pl https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/menu-toolbox.pl
 curl -Lo toolbox.cgi https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/toolbox.cgi
-curl -Lo nmap.zip https://github.com/leandroscardua/endian_nmap/blob/master/nmap.zip?raw=true
 curl -Lo speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+curl -Lo nmap.zip https://github.com/leandroscardua/endian_nmap/blob/master/nmap.zip?raw=true
 mv menu-toolbox.pl /home/httpd/menus/main/
 mv toolbox.cgi /home/httpd/cgi-bin/
 chmod 755 /home/httpd/menus/main/menu-toolbox.pl
