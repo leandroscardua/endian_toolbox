@@ -9,7 +9,7 @@ v.1
 
 Requirements/optinal:
 --------
-- NMAP :
+- NMAP : https://github.com/leandroscardua/endian_nmap
 - Speedtest-cli : https://github.com/sivel/speedtest-cli
 
 Installation:
