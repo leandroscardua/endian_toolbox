@@ -44,4 +44,9 @@ Or Install all features:
     cd /tmp/
     rm -rf nmap.zip
     rm -rf nmap    
+    
+    Or Install used script
+--------
+    curl -Lo install.sh https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/install.sh
+    chmod +x install.sh
 
