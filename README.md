@@ -20,7 +20,9 @@ Installation:
     mv toolbox.cgi /home/httpd/cgi-bin/
     chmod 755 /home/httpd/menus/main/menu-toolbox.pl
     chmod 755 /home/httpd/cgi-bin/toolbox.cgi
-        
+  
+  
+  
 Or Install all features:
 --------
     cd /tmp/
@@ -45,7 +47,8 @@ Or Install all features:
     rm -rf nmap.zip
     rm -rf nmap    
     
-    Or Install used script
+    
+Or Install using script
 --------
     curl -Lo install.sh https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/install.sh
     chmod +x install.sh
