@@ -56,4 +56,6 @@ Or Install using script
 
 Or Install using rpm packet
 --------
+    cd /tmp/
+    curl -Lo toolbox-endian3-1.0-1.x86_64.rpm https://github.com/leandroscardua/endian_toolbox/blob/master/toolbox-endian3-1.0-1.x86_64.rpm
     rpm -Uvh toolbox-endian3-1.0-1.x86_64.rpm
