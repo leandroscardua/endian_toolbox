@@ -53,3 +53,7 @@ Or Install using script
     curl -Lo install.sh https://raw.githubusercontent.com/leandroscardua/endian_toolbox/master/install.sh
     chmod +x install.sh
 
+
+Or Install using rpm packet
+--------
+    rpm -Uvh toolbox-endian3-1.0-1.x86_64.rpm
